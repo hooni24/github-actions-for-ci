@@ -1,1 +1,2 @@
 name: 멋진 승인절차 workflow
+on: pull_request_review
